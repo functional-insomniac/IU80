@@ -7,4 +7,4 @@
 
 This board is based on the Hiney H87C PCB, and is made to be WKL.
 
-You can find the H87C [here](https://hineybush.com/collections/pcbs/products/h87a-1-8).
+You can find the H87C [here](https://hineybush.com/) or alternatively [here](https://www.apexkeyboards.ca/) (for Canadians).

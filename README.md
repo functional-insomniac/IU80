@@ -8,3 +8,5 @@
 This board is based on the Hiney H87C PCB, and is made to be ANSI-WKL.
 
 You can find the H87C [here](https://hineybush.com/) or alternatively [here](https://www.apexkeyboards.ca/) (for Canadians).
+
+Board is compatible with Jane v2 plates.

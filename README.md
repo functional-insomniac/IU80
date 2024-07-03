@@ -3,7 +3,7 @@
 
 ### **project not currently being worked on**
 
-![Image of IU80 Prototype](https://cdn.discordapp.com/attachments/380033979723808770/800919276629655552/DSC00217.jpg)
+![Image of IU80 Prototype](https://github.com/mork-ganebal/IU80/blob/main/IU80.jpg)
 
 V1 was built with the h87c in mind and the V2 was built and tested with the Galatea PCB
 
